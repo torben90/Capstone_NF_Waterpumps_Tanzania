@@ -1,1 +1,3 @@
 # Capstone_NF_Waterpumps_Tanzania
+
+<a id='SjMxLdJlTBhbKBbs03vUsg' class='gie-single' href='http://www.gettyimages.de/detail/1144544657' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'SjMxLdJlTBhbKBbs03vUsg',sig:'hPKdbs6xv6p-L7SjuZAkI_w2llEgEvfGUApEa1ocPLE=',w:'509px',h:'339px',items:'1144544657',caption: false ,tld:'de',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
