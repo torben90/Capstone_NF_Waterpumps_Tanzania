@@ -22,11 +22,11 @@ In the third and last notebook maps generated with folium for visualization purp
 additional contents:
 
 * **README.md**
-This file
+This file.
 * **LICENSE**
 * **data**
-folder to store the relevant data 
+Folder to store the relevant data.
 * **figures**
-folder to store the figures produced within the project
+Folder to store the figures produced within the project.
 * **maps_folium**
-folder to store html-files of created folium maps
+Folder to store html-files of created folium maps.
